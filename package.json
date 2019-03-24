@@ -1,0 +1,17 @@
+{
+  "name": "testingtesttest",
+  "version": "1.0.0",
+  "description": "Testing test test",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Testing"
+  ],
+  "author": "Cameron",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
