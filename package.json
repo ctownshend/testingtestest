@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Testing test test",
   "main": "sketch.js",
+  "repository": "https://github.com/ctownshend/testingtestest",
   "scripts": {
     "test": "jest"
   },
